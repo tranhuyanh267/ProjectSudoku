@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <item type="id" name="cell00"/>
+     <item type="id" name="cell01"/>
+     <item type="id" name="cell02"/>
+     <item type="id" name="cell03"/>
+     <item type="id" name="cell04"/>
+     <item type="id" name="cell05"/>
+     <item type="id" name="cell06"/>
+     <item type="id" name="cell07"/>
+     <item type="id" name="cell08"/>
+     
+     <item type="id" name="cell10"/>
+     <item type="id" name="cell11"/>
+     <item type="id" name="cell12"/>
+     <item type="id" name="cell13"/>
+     <item type="id" name="cell14"/>
+     <item type="id" name="cell15"/>
+     <item type="id" name="cell16"/>
+     <item type="id" name="cell17"/>
+     <item type="id" name="cell18"/>
+     
+     <item type="id" name="cell20"/>
+     <item type="id" name="cell21"/>
+     <item type="id" name="cell22"/>
+     <item type="id" name="cell23"/>
+     <item type="id" name="cell24"/>
+     <item type="id" name="cell25"/>
+     <item type="id" name="cell26"/>
+     <item type="id" name="cell27"/>
+     <item type="id" name="cell28"/>
+     
+     <item type="id" name="cell30"/>
+     <item type="id" name="cell31"/>
+     <item type="id" name="cell32"/>
+     <item type="id" name="cell33"/>
+     <item type="id" name="cell34"/>
+     <item type="id" name="cell35"/>
+     <item type="id" name="cell36"/>
+     <item type="id" name="cell37"/>
+     <item type="id" name="cell38"/>
+     
+     <item type="id" name="cell40"/>
+     <item type="id" name="cell41"/>
+     <item type="id" name="cell42"/>
+     <item type="id" name="cell43"/>
+     <item type="id" name="cell44"/>
+     <item type="id" name="cell45"/>
+     <item type="id" name="cell46"/>
+     <item type="id" name="cell47"/>
+     <item type="id" name="cell48"/>
+     
+     <item type="id" name="cell50"/>
+     <item type="id" name="cell51"/>
+     <item type="id" name="cell52"/>
+     <item type="id" name="cell53"/>
+     <item type="id" name="cell54"/>
+     <item type="id" name="cell55"/>
+     <item type="id" name="cell56"/>
+     <item type="id" name="cell57"/>
+     <item type="id" name="cell58"/>
+     
+     <item type="id" name="cell60"/>
+     <item type="id" name="cell61"/>
+     <item type="id" name="cell62"/>
+     <item type="id" name="cell63"/>
+     <item type="id" name="cell64"/>
+     <item type="id" name="cell65"/>
+     <item type="id" name="cell66"/>
+     <item type="id" name="cell67"/>
+     <item type="id" name="cell68"/>
+     
+     <item type="id" name="cell70"/>
+     <item type="id" name="cell71"/>
+     <item type="id" name="cell72"/>
+     <item type="id" name="cell73"/>
+     <item type="id" name="cell74"/>
+     <item type="id" name="cell75"/>
+     <item type="id" name="cell76"/>
+     <item type="id" name="cell77"/>
+     <item type="id" name="cell78"/>
+     
+     <item type="id" name="cell80"/>
+     <item type="id" name="cell81"/>
+     <item type="id" name="cell82"/>
+     <item type="id" name="cell83"/>
+     <item type="id" name="cell84"/>
+     <item type="id" name="cell85"/>
+     <item type="id" name="cell86"/>
+     <item type="id" name="cell87"/>
+     <item type="id" name="cell88"/>
+     
+     
+     <item type="id" name="num1"/>
+     <item type="id" name="num2"/>
+     <item type="id" name="num3"/>
+     <item type="id" name="num4"/>
+     <item type="id" name="num5"/>
+     <item type="id" name="num6"/>
+     <item type="id" name="num7"/>
+     <item type="id" name="num8"/>
+     <item type="id" name="num9"/>
+     
+     <item type="id" name="txtTime"/>
+     <item type="difficult" name= "txtDifficult"/>
+     
+     
+</resources>
